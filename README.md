@@ -4,7 +4,6 @@
 
 <br>
 
-# VLAD
 
 ### Backend Developer · FastAPI · Python · AI Tools
 
