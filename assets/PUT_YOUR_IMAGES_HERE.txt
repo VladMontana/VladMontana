@@ -1,0 +1,1 @@
+Добавь сюда banner.png, about.png, projects.png и при необходимости resume.pdf.

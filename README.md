@@ -1,0 +1,148 @@
+<div align="center">
+
+<img src="./assets/banner.png" alt="Banner" width="100%">
+
+<br>
+
+# VLAD
+
+### Backend Developer · FastAPI · Python · AI Tools
+
+<p>
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://t.me/YOUR_TELEGRAM">
+    <img src="https://img.shields.io/badge/TELEGRAM-111111?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+  </a>
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/GMAIL-111111?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
+
+</div>
+
+---
+
+<table>
+<tr>
+<td width="68%" valign="top">
+
+## Know About Me
+
+Hey there! I'm Vlad.
+
+I'm a backend developer focused on building practical services with Python and FastAPI.
+
+I enjoy working with APIs, databases, automation, AI tools and server-side architecture.  
+Right now, I'm improving my backend skills and building real projects instead of endless tutorial apps.
+
+- Backend development with **Python and FastAPI**
+- Databases with **PostgreSQL and SQLAlchemy**
+- Infrastructure with **Docker, Linux and Git**
+- Interested in **AI development, agents and automation**
+- Building the **Exillium Minecraft project**
+- Working on a platform for launching **Telegram bots for businesses**
+
+</td>
+<td width="32%" align="center" valign="middle">
+
+<img src="./assets/about.png" alt="About illustration" width="220">
+
+</td>
+</tr>
+</table>
+
+---
+
+<table>
+<tr>
+<td width="68%" valign="top">
+
+## Top Projects
+
+### [EXILLIUM](https://github.com/YOUR_USERNAME/EXILLIUM_REPOSITORY)
+
+Minecraft server ecosystem with custom Paper plugins, a website, authentication, backups and infrastructure.
+
+### [TELEGRAM BOT PLATFORM](https://github.com/YOUR_USERNAME/TELEGRAM_BOT_PLATFORM)
+
+A platform that allows businesses to launch and manage Telegram bots without configuring their own servers and databases.
+
+### [FASTAPI BACKEND](https://github.com/YOUR_USERNAME/FASTAPI_REPOSITORY)
+
+Backend project built with FastAPI, PostgreSQL, SQLAlchemy, Alembic, Celery, Pytest and modern Python tooling.
+
+</td>
+<td width="32%" align="center" valign="middle">
+
+<img src="./assets/projects.png" alt="Projects illustration" width="210">
+
+</td>
+</tr>
+</table>
+
+---
+
+## Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,fastapi,postgresql,docker,redis,git,github,linux,bash,html,css&perline=11" alt="Tech stack">
+
+</div>
+
+---
+
+## Connect
+
+<div align="center">
+
+<a href="https://github.com/YOUR_USERNAME">
+  <img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
+<a href="https://t.me/YOUR_TELEGRAM">
+  <img src="https://img.shields.io/badge/TELEGRAM-111111?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+</a>
+<a href="mailto:YOUR_EMAIL">
+  <img src="https://img.shields.io/badge/EMAIL-111111?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
+<a href="./assets/resume.pdf">
+  <img src="https://img.shields.io/badge/RESUME-111111?style=for-the-badge&logo=readme&logoColor=white" alt="Resume">
+</a>
+
+<br><br>
+
+> Code is never finished. It only becomes slightly less terrible over time.
+
+</div>
+
+---
+
+## GitHub Statistics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=transparent&title_color=ffffff&text_color=b8b8b8&icon_color=ffffff" alt="GitHub stats">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=transparent&title_color=ffffff&text_color=b8b8b8" alt="Top languages">
+
+</div>
+
+---
+
+## Contribution
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=00000000&color=ffffff&line=b8b8b8&point=ffffff&area=true&hide_border=true" width="100%" alt="Contribution graph">
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=111111&label=PROFILE+VIEWS" alt="Profile views">
+
+</div>
