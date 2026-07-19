@@ -35,7 +35,6 @@ Right now, I'm improving my backend skills and building real projects instead of
 - Databases with **PostgreSQL and SQLAlchemy**
 - Infrastructure with **Docker, Linux and Git**
 - Interested in **AI development, agents and automation**
-- Building the **Exillium Minecraft project**
 - Working on a platform for launching **Telegram bots for businesses**
 
 </td>
