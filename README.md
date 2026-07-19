@@ -120,16 +120,7 @@ Backend project built with FastAPI, PostgreSQL, SQLAlchemy, Alembic, Celery, Pyt
 
 ## GitHub Statistics
 
-
-<div align="center">
-
-<img
-  src="./github-metrics.svg"
-  alt="GitHub Metrics"
-  width="100%"
->
-
-</div>
+![GitHub Metrics](./github-metrics.svg)
 
 ---
 
