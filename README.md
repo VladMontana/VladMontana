@@ -85,22 +85,6 @@ Backend project built with FastAPI, PostgreSQL, SQLAlchemy, Alembic, Celery, Pyt
 
 </div>
 
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-111111?style=for-the-badge&logo=fastapi&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-111111?style=for-the-badge&logo=sqlalchemy&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-111111?style=for-the-badge&logo=redis&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-111111?style=for-the-badge&logo=rabbitmq&logoColor=white)
-![Celery](https://img.shields.io/badge/Celery-111111?style=for-the-badge&logo=celery&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-111111?style=for-the-badge&logo=nginx&logoColor=white)
-![Pytest](https://img.shields.io/badge/Pytest-111111?style=for-the-badge&logo=pytest&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-111111?style=for-the-badge&logo=githubactions&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP-111111?style=for-the-badge&logoColor=white)
-
-</div>
 
 ---
 
