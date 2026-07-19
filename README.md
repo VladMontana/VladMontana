@@ -130,8 +130,8 @@ Backend project built with FastAPI, PostgreSQL, SQLAlchemy, Alembic, Celery, Pyt
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Commits-104-111111?style=for-the-badge&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/Repositories-8-111111?style=for-the-badge&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/Languages-12-111111?style=for-the-badge&logo=codeforces&logoColor=white">
+<img src="https://shields.io/badge/Commits-104-111111?style=for-the-badge&logo=git&logoColor=white" alt="Commits">
+<img src="https://shields.io/badge/Repositories-8-111111?style=for-the-badge&logo=github&logoColor=white" alt="Repositories">
+<img src="https://shields.io/badge/Languages-12-111111?style=for-the-badge&logo=codeforces&logoColor=white" alt="Languages">
 
 </div>
