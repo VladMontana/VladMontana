@@ -8,7 +8,7 @@
 ### Python Backend Developer · FastAPI · Automation · AI Tools
 
 <p>
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/VladMontana">
     <img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
   <a href="https://t.me/YOUR_TELEGRAM">
