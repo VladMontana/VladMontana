@@ -56,13 +56,13 @@ Right now, I'm improving my backend skills and building real projects instead of
 
 <table>
 <tr>
-<td width="68%" valign="top">
+<td width="62%" valign="top">
 
 ## Top Projects
 
-### [EXILLIUM](https://github.com/YOUR_USERNAME/EXILLIUM_REPOSITORY)
+### [Nothing](https://github.com/YOUR_USERNAME/EXILLIUM_REPOSITORY)
 
-Minecraft server ecosystem with custom Paper plugins, a website, authentication, backups and infrastructure.
+Nothing
 
 ### [TELEGRAM BOT PLATFORM](https://github.com/YOUR_USERNAME/TELEGRAM_BOT_PLATFORM)
 
@@ -73,9 +73,9 @@ A platform that allows businesses to launch and manage Telegram bots without con
 Backend project built with FastAPI, PostgreSQL, SQLAlchemy, Alembic, Celery, Pytest and modern Python tooling.
 
 </td>
-<td width="32%" align="center" valign="middle">
+<td width="38%" align="center" valign="middle">
 
-<img src="./assets/projects.png" alt="Projects illustration" width="210">
+<img src="./assets/projects.png" alt="Projects illustration" width="315">
 
 </td>
 </tr>
