@@ -14,7 +14,7 @@
   <a href="https://t.me/YOUR_TELEGRAM">
     <img src="https://img.shields.io/badge/TELEGRAM-111111?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
   </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:vladislavmontana435@gmail.com">
     <img src="https://img.shields.io/badge/GMAIL-111111?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
@@ -46,7 +46,7 @@ Right now, I'm improving my backend skills and building real projects instead of
 </td>
 <td width="38%" align="center" valign="middle">
 
-<img src="./assets/about.png" alt="About illustration" width="330">
+<img src="./assets/about.png" alt="About illustration" width="315" loading="lazy">
 
 </td>
 </tr>
@@ -85,14 +85,17 @@ Backend project built with FastAPI, PostgreSQL, SQLAlchemy, Alembic, Celery, Pyt
 
 ## Tech Stack
 
-## Tech Stack
 
 <div align="center">
 
 <img
-  src="https://skillicons.dev/icons?i=python,fastapi,postgresql,docker,redis,celery,git,github,linux,bash,html,css"
+  src="https://skillicons.dev/icons?i=python,fastapi,postgresql,docker,redis,git,github,linux,bash,html,css"
   alt="Tech Stack"
->
+/>
+<img
+  src="https://skillicons.dev/icons?i=spotify,vscode,rabbitmq,obsidian,nginx,gitlab"
+  alt="Tools"
+/>
 
 </div>
 
@@ -102,13 +105,13 @@ Backend project built with FastAPI, PostgreSQL, SQLAlchemy, Alembic, Celery, Pyt
 
 <div align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/VladMontana">
   <img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
 <a href="https://t.me/YOUR_TELEGRAM">
   <img src="https://img.shields.io/badge/TELEGRAM-111111?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
 </a>
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:vladislavmontana435@gmail.com">
   <img src="https://img.shields.io/badge/EMAIL-111111?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
 <a href="./assets/resume.pdf">
