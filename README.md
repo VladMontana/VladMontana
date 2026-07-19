@@ -25,7 +25,7 @@
 
 <table>
 <tr>
-<td width="68%" valign="top">
+<td width="62%" valign="top">
 
 ## Know About Me
 
@@ -44,9 +44,9 @@ Right now, I'm improving my backend skills and building real projects instead of
 - Working on a platform for launching **Telegram bots for businesses**
 
 </td>
-<td width="32%" align="center" valign="middle">
+<td width="38%" align="center" valign="middle">
 
-<img src="./assets/about.png" alt="About illustration" width="220">
+<img src="./assets/about.png" alt="About illustration" width="330">
 
 </td>
 </tr>
