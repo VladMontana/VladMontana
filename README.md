@@ -4,7 +4,6 @@
 
 <br>
 
-
 ### Python Backend Developer · FastAPI · Automation · AI Tools
 
 <p>
@@ -105,15 +104,10 @@ Backend project built with FastAPI, PostgreSQL, SQLAlchemy, Alembic, Celery, Pyt
 
 <div align="center">
 
-## Connect
-
-<div align="center">
-
 [![GitHub](https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VladMontana)
 [![Telegram](https://img.shields.io/badge/TELEGRAM-111111?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/YOUR_TELEGRAM)
 [![Email](https://img.shields.io/badge/EMAIL-111111?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
 [![Resume](https://img.shields.io/badge/RESUME-111111?style=for-the-badge&logo=readme&logoColor=white)](./assets/resume.pdf)
-
 </div>
 
 <br><br>
