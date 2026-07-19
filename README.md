@@ -105,18 +105,16 @@ Backend project built with FastAPI, PostgreSQL, SQLAlchemy, Alembic, Celery, Pyt
 
 <div align="center">
 
-<a href="https://github.com/VladMontana">
-  <img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-</a>
-<a href="https://t.me/YOUR_TELEGRAM">
-  <img src="https://img.shields.io/badge/TELEGRAM-111111?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
-</a>
-<a href="mailto:vladislavmontana435@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-111111?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-</a>
-<a href="./assets/resume.pdf">
-  <img src="https://img.shields.io/badge/RESUME-111111?style=for-the-badge&logo=readme&logoColor=white" alt="Resume">
-</a>
+## Connect
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VladMontana)
+[![Telegram](https://img.shields.io/badge/TELEGRAM-111111?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/YOUR_TELEGRAM)
+[![Email](https://img.shields.io/badge/EMAIL-111111?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![Resume](https://img.shields.io/badge/RESUME-111111?style=for-the-badge&logo=readme&logoColor=white)](./assets/resume.pdf)
+
+</div>
 
 <br><br>
 
