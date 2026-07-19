@@ -90,16 +90,9 @@ Backend project built with FastAPI, PostgreSQL, SQLAlchemy, Alembic, Celery, Pyt
 <div align="center">
 
 <img
-  src="https://go-skill-icons.vercel.app/api/icons?i=python,fastapi,postgresql,docker,redis,celery,git,github,linux,bash,html,css"
+  src="https://skillicons.dev/icons?i=python,fastapi,postgresql,docker,redis,celery,git,github,linux,bash,html,css"
   alt="Tech Stack"
-/>
-
-<br><br>
-
-<img
-  src="https://img.shields.io/badge/MCP-Model_Context_Protocol-111111?style=for-the-badge"
-  alt="MCP"
-/>
+>
 
 </div>
 
