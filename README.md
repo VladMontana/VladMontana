@@ -120,16 +120,18 @@ Backend project built with FastAPI, PostgreSQL, SQLAlchemy, Alembic, Celery, Pyt
 
 ## GitHub Statistics
 
-## Contribution
-
 <div align="center">
 
 <img
   src="https://github-readme-activity-graph.vercel.app/graph?username=VladMontana&bg_color=00000000&color=c9d1d9&line=dc143c&point=ffffff&area=true&area_color=dc143c&hide_border=true&custom_title=Contribution%20Activity"
   width="100%"
-  alt="VladMontana contribution activity graph"
+  alt="Contribution activity"
 />
 
+<br><br>
+
+<img src="https://img.shields.io/badge/Commits-104-111111?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/Repositories-8-111111?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/Languages-12-111111?style=for-the-badge&logo=codeforces&logoColor=white">
+
 </div>
-
-
