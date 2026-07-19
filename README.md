@@ -5,7 +5,7 @@
 <br>
 
 
-### Backend Developer · FastAPI · Python · AI Tools
+### Python Backend Developer · FastAPI · AI Tools
 
 <p>
   <a href="https://github.com/YOUR_USERNAME">
