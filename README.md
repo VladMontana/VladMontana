@@ -42,7 +42,7 @@ Right now, I'm improving my backend skills and building real projects instead of
 
 <table>
 <tr>
-<td width="62%" valign="top">
+<td width="61%" valign="top">
 
 ## Top Projects
 
