@@ -5,7 +5,7 @@
 <br>
 
 
-### Python Backend Developer · FastAPI · AI Tools
+### Python Backend Developer · FastAPI · Automation · AI Tools
 
 <p>
   <a href="https://github.com/YOUR_USERNAME">
@@ -85,9 +85,21 @@ Backend project built with FastAPI, PostgreSQL, SQLAlchemy, Alembic, Celery, Pyt
 
 ## Tech Stack
 
+## Tech Stack
+
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,postgresql,docker,redis,git,github,linux,bash,html,css&perline=11" alt="Tech stack">
+<img
+  src="https://go-skill-icons.vercel.app/api/icons?i=python,fastapi,postgresql,docker,redis,celery,git,github,linux,bash,html,css"
+  alt="Tech Stack"
+/>
+
+<br><br>
+
+<img
+  src="https://img.shields.io/badge/MCP-Model_Context_Protocol-111111?style=for-the-badge"
+  alt="MCP"
+/>
 
 </div>
 
