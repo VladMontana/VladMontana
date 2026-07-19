@@ -2,8 +2,6 @@
 
 <img src="./assets/banner.png" alt="Banner" width="100%">
 
-<br>
-
 ### Python Backend Developer · FastAPI · Automation · AI Tools
 
 <p>
@@ -17,11 +15,9 @@
     <img src="https://img.shields.io/badge/GMAIL-111111?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
-
 </div>
 
----
-
+<hr>
 <table>
 <tr>
 <td width="62%" valign="top">
@@ -110,7 +106,6 @@ Backend project built with FastAPI, PostgreSQL, SQLAlchemy, Alembic, Celery, Pyt
 [![Resume](https://img.shields.io/badge/RESUME-111111?style=for-the-badge&logo=readme&logoColor=white)](./assets/resume.pdf)
 </div>
 
-<br><br>
 
 > Code is never finished. It only becomes slightly less terrible over time.
 
