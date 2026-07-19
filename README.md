@@ -132,20 +132,4 @@ Backend project built with FastAPI, PostgreSQL, SQLAlchemy, Alembic, Celery, Pyt
 
 </div>
 
----
 
-## Contribution
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=00000000&color=ffffff&line=b8b8b8&point=ffffff&area=true&hide_border=true" width="100%" alt="Contribution graph">
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=111111&label=PROFILE+VIEWS" alt="Profile views">
-
-</div>
