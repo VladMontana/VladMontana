@@ -120,11 +120,14 @@ Backend project built with FastAPI, PostgreSQL, SQLAlchemy, Alembic, Celery, Pyt
 
 ## GitHub Statistics
 
+
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=transparent&title_color=ffffff&text_color=b8b8b8&icon_color=ffffff" alt="GitHub stats">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=transparent&title_color=ffffff&text_color=b8b8b8" alt="Top languages">
+<img
+  src="./github-metrics.svg"
+  alt="GitHub Metrics"
+  width="100%"
+>
 
 </div>
 
