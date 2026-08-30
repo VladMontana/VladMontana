@@ -50,13 +50,6 @@ Right now, I'm improving my backend skills and building real projects instead of
 
 **Vivido** — высокопроизводительный асинхронный Telegram-бот для автоматического скачивания, обработки и отправки медиаконтента (видео, фото и галерей) из **TikTok**, **YouTube Shorts** и **X (Twitter)** в групповые чаты.
 
-### [TELEGRAM BOT PLATFORM](https://github.com/YOUR_USERNAME/TELEGRAM_BOT_PLATFORM)
-
-A platform that allows businesses to launch and manage Telegram bots without configuring their own servers and databases.
-
-### [FASTAPI BACKEND](https://github.com/YOUR_USERNAME/FASTAPI_REPOSITORY)
-
-Backend project built with FastAPI, PostgreSQL, SQLAlchemy, Alembic, Celery, Pytest and modern Python tooling.
 
 </td>
 <td width="38%" align="center" valign="middle">
