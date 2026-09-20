@@ -96,16 +96,3 @@ Right now, I'm improving my backend skills and building real projects instead of
 
 </div>
 
----
-
-## GitHub Statistics
-
-<div align="center">
-
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=VladMontana&amp;bg_color=00000000&amp;color=c9d1d9&amp;line=dc143c&amp;point=ffffff&amp;area=true&amp;area_color=dc143c&amp;hide_border=true&amp;custom_title=Contribution%20Activity"
-  width="100%"
-  alt="Contribution activity"
-/>
-
-</div>
