@@ -50,6 +50,9 @@ Right now, I'm improving my backend skills and building real projects instead of
 
 **Vivido** — высокопроизводительный асинхронный Telegram-бот для автоматического скачивания, обработки и отправки медиаконтента (видео, фото и галерей) из **TikTok**, **YouTube Shorts** и **X (Twitter)** в групповые чаты.
 
+## [sqlshift](https://github.com/VladMontana/sqlshift)
+
+**SQLShift** — интеллектуальный in-memory SQL-роутер и AST-транспайлер, который автоматически разделяет транзакционные запросы (PostgreSQL) и аналитику (ClickHouse) на лету.
 
 </td>
 <td width="38%" align="center" valign="middle">
